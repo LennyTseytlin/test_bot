@@ -1,5 +1,3 @@
-![zenbot.org](zenbot.png)
-
 ### Zenbot
 Zenbot is an online _natural language processing_ (NLP) service and bot hosting.
 
